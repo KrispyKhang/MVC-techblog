@@ -73,7 +73,8 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 - bcrpyt
 
 ## Walkthrough
-![](./ImageAssets/Feb-16-2024%2021-47-37.gif)
+
+![](./Feb-16-2024%2021-47-37.gif)
 
 ## Challenges
 # Deployment!
