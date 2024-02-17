@@ -74,8 +74,6 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 
 ## Walkthrough
 
-![](./screen.gif)
-
 ## Challenges
 # Deployment!
 - Deploying to Heroku was a challenge. 
@@ -83,3 +81,5 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 - Worked with tutors, AI, friends helped
 - Deployment issues. Need to debug.
 - Overall Fun and Challenging!
+
+![](./Feb-16-2024_22-11-47.gif)
