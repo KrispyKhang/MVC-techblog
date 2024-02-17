@@ -73,6 +73,8 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 - bcrpyt
 
 ## Walkthrough
+- Please see the GIF files
+- READMe is not taking it for some reason
 
 ## Challenges
 # Deployment!
@@ -82,4 +84,4 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 - Deployment issues. Need to debug.
 - Overall Fun and Challenging!
 
-![](./Feb-16-2024_22-11-47.gif)
+
